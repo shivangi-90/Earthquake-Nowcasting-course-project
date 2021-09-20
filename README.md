@@ -18,3 +18,7 @@ Distribution Fits, MLE and KS test.R :
 3. At the end it uses the number of small earthquakes after the last big earthquake for two cities and find their EPS score
 
 Results Folder contains all the final results of analysis.
+
+## Contributors -
+1. Arpit Sodani
+2. Shivangi Goel
